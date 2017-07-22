@@ -7,6 +7,10 @@ I wanted to tackle the following challenges:
 2. unlimited repo usage (or at least feeling like its unlimited so people aren't hesitant to create more microservices)
     * The legacy github pricing plans with `limited repos but unlimited users` cost significantly less for some startups that cannot afford to bleed money when paying for `unlimited repos per user` under the new plans.
 
+# Nay Sayers
+
+Using submodules is possible when either your repos are public or you are ponying up sufficient cash for the private ones. This tutorial is focused on saving cash for when one needs to keep the code private.
+
 # Proposed Solution
 
 My co-worker [Sayan](https://github.com/tinker20) suggested the following:
